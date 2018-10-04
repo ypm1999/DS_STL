@@ -17,15 +17,16 @@
 review结果来确定⼤家的得分。  
 >
 >测试数据及源文件：https://github.com/ypm1999/DS_STL
+><br />
 ---
 >## 文件说明
 >在map(deque)文件夹下分别有数据和接口文件。其中`map.hpp(deque.hpp)`是接口文件，也是最终提交的代码；`exceptions.hpp`和`utility.hpp`是两个辅助文件(不可修改)，提供了一些异常处理类和pair类，这些可以自由使用。  
 >data文件夹中有多组测试数据，分别位于多个文件夹中，其中标有memcheck的数据是用来进行内存泄漏检查的。若想在本地测试，请将`class-bint.hpp、class-integer.hpp、class-matrix.hpp`和外层文件夹中的三个hpp文件放入测试点所属的文件夹，编译并运行`code.cpp`。
->
+><br />
 >
 ---
 > ## 评测及提交方式
->评测采用OJ在线评测的方式，请在OJ上用学号+姓名的方式注册账号(同onlinejudge)，之后再problem中找到相应题目，然后提交`map.hpp(deque.hpp)`中的内容进行测试。
+>评测采用OJ在线评测的方式，请在OJ上用学号+姓名的方式注册账号(同onlinejudge)，之后再problem中找到相应题目，然后提交`map.hpp(deque.hpp)`中的内容进行测试。  
 >OJ地址：
 >
 >
