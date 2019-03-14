@@ -13,7 +13,7 @@
 /***************************/
 bool need_to_check_throw = 1;
 bool good_complexity = 1;//if the complexity is N^2, change to 0
-int N = good_complexity ? 300000 : 1000;
+int N = good_complexity ? 50000 : 1000;
 /***************************/
 
 

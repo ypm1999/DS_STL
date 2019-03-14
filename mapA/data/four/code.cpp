@@ -8,7 +8,7 @@
 #include "exceptions.hpp"
 #include "map.hpp"
 
-const int MAXN = 10001;
+const int MAXN = 50001;
 
 enum Color{
 	Red, Green, Blue, Normal
