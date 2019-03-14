@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/peterzheng/temp/STL_Deque/code03.cpp
+deque.hpp
+/Users/peterzheng/temp/STL_Deque/deque.hpp
+ctime
+-
+iostream
+-
+deque
+-
+random
+-
+string
+-
+vector
+-
+ctime
+-
+
+/Users/peterzheng/temp/STL_Deque/deque.hpp
+exceptions.hpp
+/Users/peterzheng/temp/STL_Deque/exceptions.hpp
+cstddef
+-
+
+/Users/peterzheng/temp/STL_Deque/exceptions.hpp
+cstddef
+-
+cstring
+-
+string
+-
+
