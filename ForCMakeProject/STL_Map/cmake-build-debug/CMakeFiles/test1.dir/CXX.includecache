@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/peterzheng/temp/STL_Map/code01.cpp
+map.hpp
+/Users/peterzheng/temp/STL_Map/map.hpp
+iostream
+-
+cassert
+-
+string
+-
+
+/Users/peterzheng/temp/STL_Map/exceptions.hpp
+cstddef
+-
+cstring
+-
+string
+-
+
+/Users/peterzheng/temp/STL_Map/map.hpp
+functional
+-
+cstddef
+-
+utility.hpp
+/Users/peterzheng/temp/STL_Map/utility.hpp
+exceptions.hpp
+/Users/peterzheng/temp/STL_Map/exceptions.hpp
+
+/Users/peterzheng/temp/STL_Map/utility.hpp
+utility
+-
+

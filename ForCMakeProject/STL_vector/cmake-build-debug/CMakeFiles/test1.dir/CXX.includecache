@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/peterzheng/temp/STL_vector/code1.cpp
+vector.hpp
+/Users/peterzheng/temp/STL_vector/vector.hpp
+iostream
+-
+iomanip
+-
+vector
+-
+
+/Users/peterzheng/temp/STL_vector/exceptions.hpp
+cstddef
+-
+cstring
+-
+string
+-
+
+/Users/peterzheng/temp/STL_vector/vector.hpp
+exceptions.hpp
+/Users/peterzheng/temp/STL_vector/exceptions.hpp
+climits
+-
+cstddef
+-
+
